@@ -13,7 +13,7 @@
         android:id="@+id/spCity"
         android:dropDownWidth="150dp"
         >
-
+   </Spinner>
 </RelativeLayout>
 
 //thêm dòng này n?a xem th? nào?
