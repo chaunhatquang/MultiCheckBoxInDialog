@@ -1,4 +1,4 @@
-package search.quangnhat.com.search;
+﻿package search.quangnhat.com.search;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -239,4 +239,6 @@ public class MainActivity extends AppCompatActivity{
         }
     }
 }
+
+//Thêm dòng này vào xem sao?
 
