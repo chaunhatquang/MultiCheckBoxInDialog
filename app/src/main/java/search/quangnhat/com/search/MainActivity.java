@@ -241,4 +241,5 @@ public class MainActivity extends AppCompatActivity{
 }
 
 //Thêm dòng này vào xem sao?
+//Thêm dòng này nữa xem thay đổi thế nào?
 
